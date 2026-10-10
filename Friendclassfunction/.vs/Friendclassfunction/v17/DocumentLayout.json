@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\COURSE10\\Friendclassfunction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB08369-D9DF-481B-984C-80E5B4E0A72D}|Friendclassfunction.vcxproj|C:\\Users\\Administrator\\Desktop\\COURSE10\\Friendclassfunction\\Friendclassfunction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FDB08369-D9DF-481B-984C-80E5B4E0A72D}|Friendclassfunction.vcxproj|solutionrelative:Friendclassfunction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Friendclassfunction.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\COURSE10\\Friendclassfunction\\Friendclassfunction.cpp",
+              "RelativeDocumentMoniker": "Friendclassfunction.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\COURSE10\\Friendclassfunction\\Friendclassfunction.cpp*",
+              "RelativeToolTip": "Friendclassfunction.cpp*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAkwCQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-06T07:23:30.823Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

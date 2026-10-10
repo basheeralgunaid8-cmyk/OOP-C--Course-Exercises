@@ -1,0 +1,20 @@
+﻿  DateLibary.cpp
+C:\Users\Administrator\Desktop\COURSE10\DateLibary\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'DateLibary.cpp')
+  
+C:\Users\Administrator\Desktop\COURSE10\DateLibary\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'DateLibary.cpp')
+  
+C:\Users\Administrator\Desktop\COURSE10\DateLibary\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'DateLibary.cpp')
+  
+C:\Users\Administrator\Desktop\COURSE10\DateLibary\clsString.h(197,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'DateLibary.cpp')
+  
+C:\Users\Administrator\Desktop\COURSE10\DateLibary\clsString.h(328,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'DateLibary.cpp')
+  
+C:\Users\Administrator\Desktop\COURSE10\DateLibary\clsString.h(376,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'DateLibary.cpp')
+  
+  DateLibary.vcxproj -> C:\Users\Administrator\Desktop\COURSE10\DateLibary\x64\Debug\DateLibary.exe
